@@ -65,7 +65,7 @@ Acesse: [`feedbacks_reviews_tabela.csv`](informacoes/feedbacks_reviews_tabela.cs
 ## 👤 Autor
 
 Douglas Castilho da Silva  
-Aluno de Pedagogia - Univesp Polo Guaratinguetá  
+Aluno de TI - Univesp
 RA: 2109080
 
 ---
